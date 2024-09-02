@@ -26,14 +26,17 @@ You are invited to add your papers by send a pull request. Feel free to give thi
 * 2018 [Transfer learning from speaker verification to multispeaker text-to-speech synthesis](https://proceedings.neurips.cc/paper_files/paper/2018/file/6832a7b24bc06775d02b7406880b93fc-Paper.pdf)
 
 ## Representations <a name="representation"></a>
-* 04/2024 [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](https://arxiv.org/abs/2405.00233)
+* 04/2024: [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](https://arxiv.org/abs/2405.00233)
+* 10/2023: [High-Fidelity Audio Compression with Improved RVQGAN](https://arxiv.org/abs/2306.06546)
 * 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
 
 
 ## Model Architecture <a name="architecture"></a>
 
 * 07/2024: [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://arxiv.org/pdf/2407.05407)
+* 06/2024: [DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/pdf/2406.11427)
 * 06/2024: [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/pdf/2406.02430)
+* 04/2024: [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://arxiv.org/abs/2404.02781)
 * 03/2024: [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models
 ](https://arxiv.org/abs/2403.03100)
 * 02/2024: [BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data](https://arxiv.org/abs/2402.08093v1)
@@ -45,6 +48,8 @@ You are invited to add your papers by send a pull request. Feel free to give thi
 
 ## Datasets <a name="dataset"></a>
 [Emilia](https://huggingface.co/datasets/amphion/Emilia-Dataset)
+[LibriLight](https://github.com/facebookresearch/libri-light)
+[Multilingual LibriSpeech (MLS)](https://www.openslr.org/94/)
 
 
 ## Demos <a name="demo"></a>
