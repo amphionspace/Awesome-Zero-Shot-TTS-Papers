@@ -6,7 +6,7 @@ This repository is to collect papers on zero-shot TTS, and the materials will be
 You are invited to add your papers by send a pull request. Feel free to give this repository a star if you enjoy the work.
 
 
-<span style="color:blue">This repo keeps updating. Come back again around Sep 10-15th.</span>.
+*This repo keeps updating. Come back again around Sep 10-15th.*
 
 
 ## Table of Contents
