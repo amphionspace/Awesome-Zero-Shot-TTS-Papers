@@ -28,7 +28,9 @@ You are invited to add your papers by send a pull request. Feel free to give thi
 ## Representations <a name="representation"></a>
 * 04/2024: [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](https://arxiv.org/abs/2405.00233)
 * 10/2023: [High-Fidelity Audio Compression with Improved RVQGAN](https://arxiv.org/abs/2306.06546)
+* 08/2023: [SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models](https://arxiv.org/abs/2308.16692)
 * 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
+* 08/2021: [W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training](https://arxiv.org/abs/2108.06209)
 
 
 ## Model Architecture <a name="architecture"></a>
@@ -57,4 +59,4 @@ You are invited to add your papers by send a pull request. Feel free to give thi
 [Natural Speech 3](https://speechresearch.github.io/naturalspeech3/)
 [Seed-TTS](https://bytedancespeech.github.io/seedtts_tech_report/)
 [YourTTS](https://edresson.github.io/YourTTS/)
-
+[Vall-E](https://aka.ms/valle)
